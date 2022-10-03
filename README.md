@@ -2,7 +2,7 @@
 
 <h1>Welcome to my humble abode in the Digital World..</h1>
 
-<img src = 'https://github.com/mskKandula/mskKandula/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
+<img src = 'https://github.com/mskKandula/mskKandula/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-mskKandula-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mskKandula)](https://www.linkedin.com/in/mskKandula) [![HackerRank Badge](https://img.shields.io/badge/-mskKandula-green?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/mskKandula)](https://www.hackerrank.com/mskKandula) [![Gmail Badge](https://img.shields.io/badge/-mskKandula@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mskKandula@gmail.com)](mailto:mskKandula@gmail.com)
 
@@ -38,4 +38,4 @@ func (me *WhoAmI) Ambitions() []string{
 
 ## Technologies I Use
 
-<img src = 'https://github.com/mskKandula/mskKandula/blob/master/images/golang.jpg' width='30'/><img src = 'https://github.com/mskKandula/mskKandula/blob/master/images/vuejs.png' height='40'/><img src = 'https://github.com/mskKandula/mskKandula/blob/master/images/webrtc.png' width='30'/> <img src = 'https://github.com/mskKandula/mskKandula/blob/master/images/mysql.png' height='40'/><img src = 'https://github.com/mskKandula/mskKandula/blob/master/images/mongodb.png' width='30'/><img src = 'https://github.com/mskKandula/mskKandula/blob/master/images/redis.png' height='40'/><img src = 'https://github.com/mskKandula/mskKandula/blob/master/images/python.jpg' width='30'/><img src = 'https://github.com/mskKandula/mskKandula/blob/master/images/docker.png' height='40'/><img src = 'https://github.com/mskKandula/mskKandula/blob/master/images/ffmpeg.jpg' width='30'/><img src = 'https://github.com/mskKandula/mskKandula/blob/master/images/git.png' height='40'/> <img src = 'https://github.com/mskKandula/mskKandula/blob/master/images/postman.png' width='30'/>
+<img src = 'https://github.com/mskKandula/mskKandula/images/golang.jpg' width='30'/><img src = 'https://github.com/mskKandula/mskKandula/images/vuejs.png' height='40'/><img src = 'https://github.com/mskKandula/mskKandula/images/webrtc.png' width='30'/> <img src = 'https://github.com/mskKandula/mskKandula/images/mysql.png' height='40'/><img src = 'https://github.com/mskKandula/mskKandula/images/mongodb.png' width='30'/><img src = 'https://github.com/mskKandula/mskKandula/images/redis.png' height='40'/><img src = 'https://github.com/mskKandula/mskKandula/images/python.jpg' width='30'/><img src = 'https://github.com/mskKandula/mskKandula/images/docker.png' height='40'/><img src = 'https://github.com/mskKandula/mskKandula/images/ffmpeg.jpg' width='30'/><img src = 'https://github.com/mskKandula/mskKandula/images/git.png' height='40'/> <img src = 'https://github.com/mskKandula/mskKandula/images/postman.png' width='30'/>
